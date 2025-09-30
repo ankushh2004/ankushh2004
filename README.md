@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Ankush Sanodiya  
 
 💼 **Associate System Analyst Intern @ Ancilar**  
-💻 **Frontend Developer | Familarity with MERN stack
+💻 **Frontend Developer | **Familarity with MERN stack
 
 ---
 
 ### ✨ About Me  
-- 🚀 Frontend developer with a strong grip on **React & JavaScript**  
-- 🎨 Familiar with modern UI frameworks like **Bootstrap, Tailwind CSS, Material UI, Shadesn, Accernity**  
+- 🚀 Frontend developer with a strong understanding of **React & JavaScript**  
+- 🎨 Familiar with modern UI frameworks like **Bootstrap, Tailwind CSS, Material UI, Shadcn, Accernity UI**  
 - 🛠 Hands-on with **Postman**, version control (**Git/GitHub**) and dev tools  
 - 🌱 Exploring and building projects with the **MERN stack**  
 - 💡 Programming experience in **Java, C/C++, JavaScript, Python (basic)**  
@@ -55,4 +55,4 @@
 
 ---
 
-⭐ *"Keep learning, keep building, and keep growing."*  
+⭐ *"Learning and Growing Continuosly"*  
