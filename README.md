@@ -66,7 +66,7 @@
 
 <p align="center">  
 <a href="https://www.linkedin.com/in/ankush-sanodiya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-<a href="mailto:ankushsanodiya28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+<a href="mailto:ankushhh28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 <a href="https://www.instagram.com/ankush._.28?igsh=dDAzNDlpdmFhbnlz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>  
 </p>  
 
