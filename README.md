@@ -30,7 +30,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
-![Shadcn](https://img.shields.io/badge/Shadesn-%231572B6.svg?style=for-the-badge&logoColor=white) 
+![Shadcn](https://img.shields.io/badge/Shadcn-%231572B6.svg?style=for-the-badge&logoColor=white) 
 ![Accernity](https://img.shields.io/badge/Accernity-%23000000.svg?style=for-the-badge&logoColor=white)  
 
 **Backend & Database**  
