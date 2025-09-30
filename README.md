@@ -56,8 +56,8 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkushSanodiya&show_icons=true&theme=radical" alt="stats" height="160"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkushSanodiya&theme=radical" alt="streak" height="160"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=ankushh2004&show_icons=true&theme=radical" alt="stats" height="160"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushh2004&theme=radical" alt="streak" height="160"/>  
 </p>  
 
 ---
@@ -65,8 +65,9 @@
 ### 🌐 Connect With Me  
 
 <p align="center">  
-<a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-<a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>  
+<a href="https://www.linkedin.com/in/ankush-sanodiya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+<a href="mailto:ankushsanodiya28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+<a href="https://www.instagram.com/ankush._.28?igsh=dDAzNDlpdmFhbnlz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>  
 </p>  
 
 ---
