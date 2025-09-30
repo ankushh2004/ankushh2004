@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Ankush Sanodiya  
 
 💼 **Associate System Analyst Intern @ Ancilar**  
-💻 **Frontend Developer | React & JavaScript Enthusiast**  
+💻 **Frontend Developer | Familarity with MERN stack
 
 ---
 
 ### ✨ About Me  
 - 🚀 Frontend developer with a strong grip on **React & JavaScript**  
 - 🎨 Familiar with modern UI frameworks like **Bootstrap, Tailwind CSS, Material UI, Shadesn, Accernity**  
-- 🛠 Hands-on with **Postman**, version control (**Git/GitHub**) and modern dev tools  
+- 🛠 Hands-on with **Postman**, version control (**Git/GitHub**) and dev tools  
 - 🌱 Exploring and building projects with the **MERN stack**  
 - 💡 Programming experience in **Java, C/C++, JavaScript, Python (basic)**  
 - 🗄️ Comfortable with **SQL & MongoDB**  
@@ -26,23 +26,23 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
 
 **Frontend**  
-![React](https://img.shields.io/badge/React-%2300D9FF.svg?style=for-the-badge&logo=react&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)  
-![Shadesn](https://img.shields.io/badge/Shadesn-%231572B6.svg?style=for-the-badge&logoColor=white)  
+![React](https://img.shields.io/badge/React-%2300D9FF.svg?style=for-the-badge&logo=react&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
+![Shadesn](https://img.shields.io/badge/Shadesn-%231572B6.svg?style=for-the-badge&logoColor=white) 
 ![Accernity](https://img.shields.io/badge/Accernity-%23000000.svg?style=for-the-badge&logoColor=white)  
 
 **Backend & Database**  
-![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-![ExpressJS](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+![ExpressJS](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 **Tools**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
 
 ---
@@ -55,4 +55,4 @@
 
 ---
 
-<h3 align="center">⭐️ "Code. Debug. Repeat. And keep learning every day!" ⭐️</h3>  
+⭐ *"Keep learning, keep building, and keep growing."*  
