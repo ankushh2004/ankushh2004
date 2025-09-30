@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ankush Sanodiya  
 
 💼 **Associate System Analyst Intern @ Ancilar**  
-💻 **Frontend Developer | **Familarity with MERN stack
+💻 **Frontend Developer** | **Familiar with MERN stack**
 
 ---
 
